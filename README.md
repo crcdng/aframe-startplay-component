@@ -1,5 +1,7 @@
 ## aframe-startplay-component
 
+Update: archiving this component
+
 [![Version](http://img.shields.io/npm/v/aframe-startplay-component.svg?style=flat-square)](https://npmjs.org/package/aframe-startplay-component)
 [![License](http://img.shields.io/npm/l/aframe-startplay-component.svg?style=flat-square)](https://npmjs.org/package/aframe-startplay-component)
 
